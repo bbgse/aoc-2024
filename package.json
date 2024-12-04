@@ -1,0 +1,16 @@
+{
+  "name": "aoc-2024",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "day-1": "node src/1/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.1"
+  }
+}
